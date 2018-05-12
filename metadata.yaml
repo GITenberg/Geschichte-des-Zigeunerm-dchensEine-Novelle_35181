@@ -1,0 +1,41 @@
+_repo: Geschichte-des-Zigeunerm-dchensEine-Novelle_35181
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Thorer, Konrad
+    gutenberg_agent_id: '42039'
+    url: http://www.gutenberg.org/2009/agents/42039
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - De Cervantes Saavedra, Miguel
+    - Cervantes, Miguel de
+    - Cervantes, Michel
+    - Saavedra, Miguel de Cervantes
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35181'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Social life and customs -- Fiction'
+- !lcsh 'Cervantes Saavedra, Miguel de, 1547-1616 -- Translations into German'
+- !lcc 'PQ'
+title: 'Geschichte des Zigeunermädchens: Eine Novelle'
+url: http://www.gutenberg.org/ebooks/35181
